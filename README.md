@@ -9,7 +9,7 @@ Software Engineer dedicated to improving skills through hands-on learning and de
 * 🌍  I'm based in Uganda
 * ✉️  You can contact me at [eazioffset2@gmail.com](mailto:eazioffset2@gmail.com)
 * 🧠  I'm learning React js and React Native
-* 🤝  I'm open to collaborating on Whisper
+* 🤝  I'm open to collaborating on Open Source Software
 
 ### Skills
 
