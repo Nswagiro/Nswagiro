@@ -7,7 +7,10 @@ Full Stack Developer
 Software Engineer dedicated to improving skills through hands-on learning and development work. Proficient in mobile and desktop development environments. Adept at using HTML5, JavaScript and other programming languages to produce clean code. Well-organized and collaborative team player with strong communication and analytical abilities. Experienced in Agile and Scrum environments. Supports team administrative, project coordination, design and programming needs. Fluent in English. School projects included building apps, optimizing programs and validating code. Bringing more than 5 years of experience leading website design projects, including gathering user requirements, producing code, creating mockups and enhancing designs. Focused on creating clean, robust code with exceptional security.
 
 * 🌍  I'm based in Uganda
-* ✉️  You can contact me at [eazioffset2@gmail.com](mailto:eazioffset2@gmail.com)
+* ✉️  You can contact me at [
+eazioffset2@gmail.com
+wilnswagiro@gmail.com
+](mailto:eazioffset2@gmail.com)
 * 🧠  I'm learning React js and React Native
 * 🤝  I'm open to collaborating on Open Source Software
 
