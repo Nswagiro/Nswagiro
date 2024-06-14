@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nswagiro Wilson
+How ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nswagiro Wilson
 =======================================================================================================================================
 
 Full Stack Developer
@@ -10,8 +10,7 @@ Software Engineer dedicated to improving skills through hands-on learning and de
 * ✉️  You can contact me at [
 eazioffset2@gmail.com
 wilnswagiro@gmail.com
-]
-(mailto:eazioffset2@gmail.com)
+](mailto:eazioffset2@gmail.com)
 * 🧠  I'm learning React js and React Native
 * 🤝  I'm open to collaborating on Open Source Software
 
