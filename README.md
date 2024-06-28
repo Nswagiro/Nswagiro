@@ -11,7 +11,7 @@ Software Engineer dedicated to improving skills through hands-on learning and de
 eazioffset2@gmail.com
 wilnswagiro@gmail.com
 ](mailto:eazioffset2@gmail.com)
-* 🧠  I'm learning React js and React Native
+* 🧠  I'm learning Python and Machine Learning
 * 🤝  I'm open to collaborating on Open Source Software
 
 ### Skills
